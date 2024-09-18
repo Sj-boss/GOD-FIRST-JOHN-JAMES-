@@ -1,0 +1,22 @@
+
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6Ijk0OTdCMzQxMTBEQkFFMzlFQzZGMUE0QzJDMEI0RjE2IiwidHlwIjoiSldUIn0.eyJpc3MiOiJodHRwczovL2RlbW8uZHVlbmRlc29mdHdhcmUuY29tIiwibmJmIjoxNzI2NjI0MjM4LCJpYXQiOjE3MjY2MjQyMzgsImV4cCI6MTcyNjYyNDUzOCwiYXVkIjoiaW50ZXJhY3RpdmUucHVibGljIiwiYW1yIjpbImV4dGVybmFsIl0sImF0X2hhc2giOiJjU3BRVlcyN2s4WVphc0h3NEhfWTlRIiwic2lkIjoiREFERTIxM0ExREJCQ0VENzhBOEU5QTdCODY3NTEyNDUiLCJzdWIiOiI5QUUzOEYwRjFFM0JEQTdCQzE2OTVCMEQyQkFDNDE5ODM5QTUwREI1QzlBQTFGQzE1MkM2RDcyNjQ5QUM0ODBFIiwiYXV0aF90aW1lIjoxNzI2NjI0MjM3LCJpZHAiOiJHb29nbGUifQ.zrWS9oIorYTlN6aFJiOmzlx4s9jzUVAG_r52drKU_UfZkgwk-HmVWjs4QbUV53w_GXKurEdeIzUnSPvsMWaoT5DHohkpKQ8kO0VgmoZiK6MJqkbaFDYIykmd2QWCZif4iAjBqFp0e0laAu0tWvpcMCFXVHIZq40DVxEF5imoludTsmYJnyf2Rp9_HtGlWAcQvgcgp6ZBVk4Nge07F2mQYSZsu6AcbTqCuY6oL6IqAO9gUgAG_UmXiPb-NkvM_hxnb-7Gy9Efn2y1ti1JmoDOrNNsl3Jc8gUMIn8bhkpejV6dxHtDenWq7lMRyPU4CAjb7Pjxa7I07RGDS1VDyTYEow",
+  "session_state": "7q_G20Mil5ATao5qEGsVLqweJpm6aOUSkShTGpQIiRI.A39A90B9288268ECAC5417688FEBB0F9",
+  "access_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6Ijk0OTdCMzQxMTBEQkFFMzlFQzZGMUE0QzJDMEI0RjE2IiwidHlwIjoiYXQrand0In0.eyJpc3MiOiJodHRwczovL2RlbW8uZHVlbmRlc29mdHdhcmUuY29tIiwibmJmIjoxNzI2NjI0MjM4LCJpYXQiOjE3MjY2MjQyMzgsImV4cCI6MTcyNjYyNzgzOCwic2NvcGUiOlsib3BlbmlkIiwicHJvZmlsZSIsImVtYWlsIl0sImFtciI6WyJleHRlcm5hbCJdLCJjbGllbnRfaWQiOiJpbnRlcmFjdGl2ZS5wdWJsaWMiLCJzdWIiOiI5QUUzOEYwRjFFM0JEQTdCQzE2OTVCMEQyQkFDNDE5ODM5QTUwREI1QzlBQTFGQzE1MkM2RDcyNjQ5QUM0ODBFIiwiYXV0aF90aW1lIjoxNzI2NjI0MjM3LCJpZHAiOiJHb29nbGUiLCJzaWQiOiJEQURFMjEzQTFEQkJDRUQ3OEE4RTlBN0I4Njc1MTI0NSIsImp0aSI6IjNCMDk3ODc1QTlDOTcxQzIzQzY0Q0IwM0RFQ0ZGNkE2In0.kr3FdwTPFZL0ou8-HuCC0XvedcgGFVAvC31NXh652j9Vx-C74RgZ4l9ORTljizm2Uyj0pUDwk0R4SXEAcyopCb12UYd_83UtgQZIRa2GhIp93RREbGZEjHnyYOo2a73DQQ8LDHghhk21pW-tDCMhNoD2uCI6Gw5z_1mb06nAIQMVDC78R7dbByvkNAiU-vKjHlJAO1hF4uFTpNWiaFVFJBhovqQFravB9tBruaMSrCBfoj8VxpuktH0_72Yo6tZl0ukFwDFXyqjsFIBxM8YwGsZSJ4h6y6UxcqFikqceuiEzydS4TGZqlgwWjw1dZj4ahuc7birh61X_5yh6bhBJfw",
+  "token_type": "Bearer",
+  "scope": "openid profile email",
+  "profile": {
+    "iss": "https://demo.duendesoftware.com",
+    "iat": 1726624238,
+    "exp": 1726624538,
+    "aud": "interactive.public",
+    "sid": "DADE213A1DBBCED78A8E9A7B86751245",
+    "sub": "9AE38F0F1E3BDA7BC1695B0D2BAC419839A50DB5C9AA1FC152C6D72649AC480E",
+    "idp": "Google",
+    "email": "godfirstjohnjames@gmail.com",
+    "email_verified": true,
+    "name": "GOD FIRST JOHN JOHN",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocKhzQ96hQ-XRQ21DkrD16AAYrfbuHuqgWTDaTWfWE-U6xpXjJ4=s96-c",
+    "given_name": "GOD FIRST",
+    "family_name": "JOHN JOHN"
+  },
+  "expires_at": 1726627838
